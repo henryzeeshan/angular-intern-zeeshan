@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "babe2",
+      "lastName": "237562496298"
+    },
+    {
+      "firstName": "zeeshan",
+      "lastName": 6203175102,
+      "id": 3
+    },
+    {
+      "id": 5,
+      "firstName": "shaquib",
+      "lastName": 4464611
+    },
+    {
+      "id": 6,
+      "firstName": "yyyyyyy",
+      "lastName": 222222222,
+      "email": "",
+      "mobile": "",
+      "salary": "",
+      "dob": 0
+    },
+    {
+      "id": 7,
+      "firstName": "zeeshan23",
+      "lastName": 984594889900
+    },
+    {
+      "id": 8,
+      "firstName": "aquib",
+      "lastName": 444444444444444
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
